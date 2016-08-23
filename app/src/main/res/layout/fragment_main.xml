@@ -47,6 +47,34 @@
         android:paddingLeft="5dp"
         android:paddingRight="10dp" />
 
+    <Button
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:text="Genetic Mutation"
+        android:id="@+id/button2"
+        android:layout_gravity="center_horizontal"
+        android:background="@drawable/hero_button"
+        android:textColor="#FAC740"
+        android:layout_marginTop="15dp"
+        android:drawableLeft="@drawable/atomic"
+        android:drawableRight="@drawable/itemselected"
+        android:paddingLeft="5dp"
+        android:paddingRight="10dp" />
+
+    <Button
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:text="Born With Them"
+        android:id="@+id/button3"
+        android:layout_gravity="center_horizontal"
+        android:background="@drawable/hero_button"
+        android:textColor="#FAC740"
+        android:layout_marginTop="15dp"
+        android:drawableLeft="@drawable/rocket"
+        android:drawableRight="@drawable/itemselected"
+        android:paddingLeft="5dp"
+        android:paddingRight="10dp" />
+
 
 </LinearLayout>
 
