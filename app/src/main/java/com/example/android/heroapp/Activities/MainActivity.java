@@ -24,6 +24,12 @@ public class MainActivity extends AppCompatActivity implements MainFragment.Main
         }
     }
 
+
+    public void loadPickPowerScreen(){
+
+    }
+
+
     @Override
     public void onMainFragmentInteraction(Uri uri) {
 
