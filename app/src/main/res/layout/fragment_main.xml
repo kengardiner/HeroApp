@@ -75,6 +75,20 @@
         android:paddingLeft="5dp"
         android:paddingRight="10dp" />
 
+    <Button
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:text="CHOOSE POWERS"
+        android:id="@+id/button4"
+        android:layout_gravity="center_horizontal"
+        android:background="@drawable/hero_solid_button"
+        android:textColor="#000000"
+        android:layout_marginTop="15dp"
+        android:paddingLeft="5dp"
+        android:paddingRight="10dp"
+        android:backgroundTint="#fdcf00"
+        android:textSize="20dp" />
+
 
 </LinearLayout>
 
